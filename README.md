@@ -39,4 +39,6 @@ A healthcare patient management application that allows patients to easily regis
 
 👉 **Manage and Track Application Performance Using Sentry**: The application uses Sentry to monitor and track its performance and detect any errors.
 
-and many more, including code architecture and reusability
+and many more, including code architecture and reusability.
+
+Thank you!
