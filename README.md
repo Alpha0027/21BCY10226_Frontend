@@ -5,10 +5,6 @@
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
 
 ## 🚨 Tutorial
 
@@ -56,5 +52,3 @@ If you're getting started and need assistance or face any bugs, join our active 
 👉 **Manage and Track Application Performance Using Sentry**: The application uses Sentry to monitor and track its performance and detect any errors.
 
 and many more, including code architecture and reusability
-
-## <a name="quick-start">🤸 Quick Start</a>
